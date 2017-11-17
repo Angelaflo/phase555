@@ -1,0 +1,67 @@
+div {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.6em;
+  letter-spacing: 2em;
+  
+  width: 100vw;
+  height: 30vh;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sky {
+  background: #e73c83;
+  color: #fbdbe8;
+}
+
+.ground {
+  color: #FBDBE8;
+  background: #000000;
+}
+
+.pink1 {
+	background:#e73c83;
+	width: 30%;
+	height; 90%;
+}
+.pink2 {
+	background:#000000;
+	width: 30%;
+	height; 90%;
+}
+
+.pink3 {
+	background:#e73c83;
+	width: 30%;
+	height; 90%;
+	
+}
+
+.pink4 {
+	background:#000000;
+	width: 30%;
+	height; 90%;
+}
+
+.black1{
+	background:#000000;
+	width: 30%;
+	height; 90%;
+}
+.black2{
+	background:#e73c83;
+	width: 30%;
+	height; 90%;
+}
+.black3{
+	background:#000000;
+	width: 30%;
+	height; 90%;
+}
+.black4{
+	background:#e73c83;
+	width: 30%;
+	height; 90%;
+}
